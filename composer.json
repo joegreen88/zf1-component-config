@@ -1,7 +1,6 @@
 {
     "name": "hearstuk/zf1-component-config",
     "description": "The Zend_Config component from Zend Framework 1.12 abstracted out for use with composer.",
-    "version": "1.0",
     "homepage": "http://github.com/joegreen88/zf1-component-config",
     "authors": [
         {
