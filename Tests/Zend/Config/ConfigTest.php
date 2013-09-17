@@ -1,7 +1,7 @@
 <?php
 namespace Tests\Zend\Config;
 
-class ConfigTest extends Tests\TestCase
+class ConfigTest extends \Tests\TestCase
 {
     /**
      * Ensure that the composer autoloader is finding the classes correctly.
